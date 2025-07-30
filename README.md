@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there! I'm a student game developer using C++, Rust, and Vulkan.  
+I have a strong interest in developing cross-platform games with C++ or Rust.
 
-<!--
-**HK416/HK416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+#### Platform & Languges
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Vulkan-AC162C.svg?style=flat-square&logo=vulkan&logoColor=white&logoSize=auto">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
